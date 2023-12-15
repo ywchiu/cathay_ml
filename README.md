@@ -5,10 +5,14 @@
 ### Demo20231211
 - https://colab.research.google.com/drive/1gfObCmRBKp0DndIjVcKo2efXlv_vnHMC?usp=sharing
 
+### Demo20231215
+- https://colab.research.google.com/drive/1L7zQYWJ88Jh42oCDnKEsF6lscLBHeNqn?usp=sharing
+
 ### 迴歸分析
 - https://colab.research.google.com/github/ywchiu/cathay_ml/blob/main/code/regression_tutorial.ipynb
 
-
+### 分類模型
+- https://colab.research.google.com/github/ywchiu/cathay_ml/blob/main/code/classification_tutorial.ipynb
 
 ## 課前須知
 
