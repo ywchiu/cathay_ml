@@ -11,6 +11,9 @@
 ### Demo20231220
 - https://colab.research.google.com/drive/1CHIIaqvd3p8brb3YObN71qlwYU1-KFhB?usp=sharing
 
+### Demo20231222
+- https://colab.research.google.com/drive/1m_wa7GngtTkLdkk3Gw6PrYks2lsfiH15?usp=sharing
+
 ### 迴歸分析
 - https://colab.research.google.com/github/ywchiu/cathay_ml/blob/main/code/regression_tutorial.ipynb
 
@@ -19,6 +22,9 @@
 
 ### 評估模型
 - https://colab.research.google.com/github/ywchiu/cathay_ml/blob/main/code/evaluation_tutorial.ipynb
+
+### 分群與進階機器學習 
+- https://colab.research.google.com/github/ywchiu/cathay_ml/blob/main/code/advanced_ml_and_clustering.ipynb
 
 ## 課前須知
 
